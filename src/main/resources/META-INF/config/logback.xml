@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property resource="application.properties" />
+
+	<property name="log.root.level" value="ERROR" />		<!-- 根路径的日志级别为 Error -->
+	<property name="log.base" value="/www/logs/ironforge/common" />	<!-- 日志存储的路径 -->
+	<property name="log.moduleName" value="web" />		<!-- 模块名 -->
+	<property name="log.max.size" value="10mb" />			<!-- 每个日志文件最多10mb，超过将会进行切割 -->
+	<property name="log.total.size" value="50mb" />		<!-- 日志最多保留50mb，超过会自动删除 -->
+	<property name="log.max.history" value="3" />			<!-- 日志最多保留3天，超过会自动删除 -->
+
+	<!--控制台输出 -->
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%date{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread]%logger{56}.%method:%L -%msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<!-- 文件输出 -->
+	<appender name="FILE.LOG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${log.base}/${log.moduleName}.log</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+			<fileNamePattern>${log.base}/${log.moduleName}.%d{yyMMdd}.%i.log</fileNamePattern>
+			<maxHistory>${log.max.history}</maxHistory>
+			<totalSizeCap>${log.total.size}</totalSizeCap>
+			<maxFileSize>${log.max.size}</maxFileSize>
+		</rollingPolicy>
+
+		<!-- 立即刷新，不缓存 -->
+        <immediateFlush>${logging.appender.immediate-flush}</immediateFlush>
+
+		<!-- 日志输出格式 -->
+		<encoder>
+			<pattern>%date{yyyy-MM-dd HH:mm:ss.SSS} %-5level[%thread]%logger{56}.%method:%L -%msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<root level="${log.root.level}">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="FILE.LOG" />
+	</root>
+
+    <logger name="druid.sql.Statement" level="DEBUG" additivity="false">
+        <appender-ref ref="STDOUT" />
+		<appender-ref ref="FILE.LOG" />
+    </logger>
+
+    <logger name="com.fpx.ironforge" level="INFO" additivity="false">
+        <appender-ref ref="STDOUT" />
+		<appender-ref ref="FILE.LOG" />
+    </logger>
+</configuration>
