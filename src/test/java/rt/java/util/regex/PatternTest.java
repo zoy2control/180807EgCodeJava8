@@ -41,5 +41,6 @@ public class PatternTest {
         for(String item : split1) {
             System.out.println(item);
         }
+
     }
 }
