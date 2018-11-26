@@ -38,4 +38,16 @@ public class BasicGrammar {
         System.out.println("oldCap:" + oldCapacity);// ·注意，oldCap值不变
         System.out.println("newCap:" + newCapacity);
     }
+
+    /**
+     * ·除法运算。除数与 被除数是否为 浮点型
+     */
+    @Test
+    public void testDivision() {
+        System.out.println("1/2 = " + 1/2);
+        System.out.println("5/2 = " + 5/2);
+        System.out.println("5.0/2 = " + 5.0/2);
+        System.out.println("5/2.0 = " + 5/2.0);
+        System.out.println("5.0/2.0 = " + 5.0/2.0);
+    }
 }
