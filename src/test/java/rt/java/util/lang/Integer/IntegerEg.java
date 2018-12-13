@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Created by zouzp on 2018/11/26.
  */
-public class IntegerTest {
+public class IntegerEg {
 
     /**
      * ·对象引用的 ==

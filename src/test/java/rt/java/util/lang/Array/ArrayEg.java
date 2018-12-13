@@ -7,7 +7,7 @@ import java.util.ArrayList;
 /**
  * Created by zouzp on 2018/12/3.
  */
-public class ArrayTest {
+public class ArrayEg {
     @Test
     public void test01() {
         /**
