@@ -8,6 +8,17 @@ import org.junit.Test;
  */
 public class IntegerTypeEg {
 
+    /**
+     * ·==================Java跨平台=================
+     * ·Java中 整形数据与 具体机器无关，区别 C，可能32位程序到16位系统上可能会发生溢出
+     * ·因为在 JVM中对 整形数据范围已经做了限定，不同机器得到的数值范围都是一定的。
+     * ·所以 Java程序对于跨平台是比较友好的
+     *
+     * ·比如 C/C++中，32位处理器上 long为 4-byte，而 64位处理器上 long为 8-byte
+     *
+     * ·Java没有 无符号类型
+     */
+
     @Test
     public void byteEg() {
         byte byteMax = Byte.MAX_VALUE;// ·0x7f,1-byte = 8-bit

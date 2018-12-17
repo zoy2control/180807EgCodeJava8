@@ -3,8 +3,8 @@
 	<property resource="application.properties" />
 
 	<property name="log.root.level" value="ERROR" />		<!-- 根路径的日志级别为 Error -->
-	<property name="log.base" value="/www/logs/ironforge/common" />	<!-- 日志存储的路径 -->
-	<property name="log.moduleName" value="web" />		<!-- 模块名 -->
+	<property name="log.base" value="/zoylog/egCodeJava8" />	<!-- 日志存储的路径 -->
+	<property name="log.moduleName" value="service" />		<!-- 模块名 -->
 	<property name="log.max.size" value="10mb" />			<!-- 每个日志文件最多10mb，超过将会进行切割 -->
 	<property name="log.total.size" value="50mb" />		<!-- 日志最多保留50mb，超过会自动删除 -->
 	<property name="log.max.history" value="3" />			<!-- 日志最多保留3天，超过会自动删除 -->
