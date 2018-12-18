@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d43aa43-0862-44e4-9aac-30ae4fe9f5a2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/config/logback.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/config/logback.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/config/logback.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/config/logback.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.class" afterPath="$PROJECT_DIR$/target/test-classes/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,10 +32,10 @@
         </entry>
       </file>
       <file leaf-file-name="IntegerTypeEg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="459">
+              <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloatPointTypeEg.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java">
+      <file leaf-file-name="Byte.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Byte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+              <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatPointTypeEg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,61 +65,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/config/logback.xml">
+      <file leaf-file-name="CharTypeEg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="258">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/profile/local/application.properties">
+      <file leaf-file-name="VariableAndConstEg.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="162">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Double.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Double.java">
+      <file leaf-file-name="BooleanTypeEg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="68" column="31" lean-forward="false" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Float.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Float.java">
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Short.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Short.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Long.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Long.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="58" column="68" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="68" />
+            <state relative-caret-position="108">
+              <caret line="104" column="24" lean-forward="true" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -174,6 +165,12 @@
         <option value="$USER_HOME$/Desktop/新建文本文档.md" />
         <option value="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java" />
         <option value="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/BooleanTypeEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/CharTypeEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/sec1_datatype/CharTypeEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConst.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" />
       </list>
     </option>
   </component>
@@ -183,7 +180,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -353,18 +350,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datatype" type="462c0819:PsiDirectoryNode" />
+              <item name="cp1_fundamentalStructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="180807EgCodeJava8" type="b2602c69:ProjectViewProjectNode" />
               <item name="180807EgCodeJava8" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cp1_fundamentalStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="sec1_datatype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="180807EgCodeJava8" type="b2602c69:ProjectViewProjectNode" />
               <item name="180807EgCodeJava8" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cp1_fundamentalStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="sec2_variables" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="180807EgCodeJava8" type="b2602c69:ProjectViewProjectNode" />
@@ -406,7 +410,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="last_opened_file_path" value="E:/181203Account" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -443,7 +447,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FloatPointTypeEg.computeFloatPointData">
+  <component name="RunManager" selected="JUnit.BooleanTypeEg.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -465,19 +469,19 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="FloatPointTypeEg.computeFloatPointData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BooleanTypeEg.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="zoy2control.fundamentalStructure.datatype.*" />
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="180807EgCodeJava8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.fundamentalStructure.datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.fundamentalStructure.datatype.FloatPointTypeEg" />
-      <option name="METHOD_NAME" value="computeFloatPointData" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.BooleanTypeEg" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -490,19 +494,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FloatPointTypeEg.doubleEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharTypeEg.ascii2Char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="zoy2control.fundamentalStructure.datatype.*" />
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="180807EgCodeJava8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.fundamentalStructure.datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.fundamentalStructure.datatype.FloatPointTypeEg" />
-      <option name="METHOD_NAME" value="doubleEg" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
+      <option name="METHOD_NAME" value="ascii2Char" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -515,19 +519,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FloatPointTypeEg.floatEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharTypeEg.char2ASCIIEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="zoy2control.fundamentalStructure.datatype.*" />
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="180807EgCodeJava8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.fundamentalStructure.datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.fundamentalStructure.datatype.FloatPointTypeEg" />
-      <option name="METHOD_NAME" value="floatEg" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
+      <option name="METHOD_NAME" value="char2ASCIIEg" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -540,19 +544,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="IntegerTypeEg.ShortEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharTypeEg.charToASCIIEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="zoy2control.fundamentalStructure.datatype.*" />
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="180807EgCodeJava8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.fundamentalStructure.datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.fundamentalStructure.datatype.IntegerTypeEg" />
-      <option name="METHOD_NAME" value="ShortEg" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
+      <option name="METHOD_NAME" value="charToASCIIEg" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -565,19 +569,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="IntegerTypeEg.byteEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharTypeEg.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="zoy2control.fundamentalStructure.datatype.*" />
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="180807EgCodeJava8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.fundamentalStructure.datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.fundamentalStructure.datatype.IntegerTypeEg" />
-      <option name="METHOD_NAME" value="byteEg" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -651,19 +655,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerTypeEg.ShortEg" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.IntegerTypeEg.byteEg" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.doubleEg" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.floatEg" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.computeFloatPointData" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CharTypeEg.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CharTypeEg.charToASCIIEg" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.computeFloatPointData" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.floatEg" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FloatPointTypeEg.doubleEg" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.IntegerTypeEg.byteEg" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.IntegerTypeEg.ShortEg" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CharTypeEg.charToASCIIEg" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CharTypeEg.test" />
       </list>
     </recent_temporary>
   </component>
@@ -704,58 +708,58 @@
       <workItem from="1544598783400" duration="1195000" />
       <workItem from="1544663873321" duration="5844000" />
       <workItem from="1544681542780" duration="5348000" />
-      <workItem from="1545010003257" duration="5003000" />
+      <workItem from="1545010003257" duration="16290000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 33m 43s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="BooleanTypeEg_test - 2018.12.18 at 16h 41m 38s.xml">
+      <configuration name="BooleanTypeEg.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 34m 38s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="BooleanTypeEg_test - 2018.12.18 at 16h 42m 04s.xml">
+      <configuration name="BooleanTypeEg.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 36m 12s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 15h 24m 04s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 39m 30s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 29m 47s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 40m 05s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 29m 54s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 40m 50s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 30m 52s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 42m 28s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 31m 56s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FloatPointTypeEg_computeFloatPointData - 2018.12.17 at 19h 44m 05s.xml">
-      <configuration name="FloatPointTypeEg.computeFloatPointData" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 34m 07s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerTest_test02 - 2018.11.27 at 18h 12m 35s.xml">
-      <configuration name="IntegerTest.test02" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 34m 34s.xml">
+      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerTest_test02 - 2018.11.30 at 16h 26m 17s.xml">
-      <configuration name="IntegerTest.test02" configurationId="JUnit" />
+    <history-entry file="CharTypeEg_char2ASCIIEg - 2018.12.18 at 16h 29m 18s.xml">
+      <configuration name="CharTypeEg.char2ASCIIEg" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70183000" />
+    <option name="totallyTimeSpent" value="81470000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58766234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -763,12 +767,12 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23027718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29978356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31493506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -776,7 +780,7 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Documentation" active="false" anchor="top" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" x="357" y="300" width="803" height="426" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -811,45 +815,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5994">
-          <caret line="263" column="32" lean-forward="false" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testMain01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7101">
@@ -988,13 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="698" column="29" lean-forward="false" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -1081,6 +1044,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1053">
           <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
+          <folding>
+            <element signature="e#32532#32533#0" expanded="false" />
+            <element signature="e#32566#32567#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1132,16 +1099,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/新建文本文档.md" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Float.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -1158,13 +1115,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+        <state relative-caret-position="459">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="104" column="24" lean-forward="true" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

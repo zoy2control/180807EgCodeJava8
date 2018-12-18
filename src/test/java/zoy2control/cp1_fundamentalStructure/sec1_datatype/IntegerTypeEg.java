@@ -1,6 +1,5 @@
-package zoy2control.fundamentalStructure.datatype;
+package zoy2control.cp1_fundamentalStructure.sec1_datatype;
 
-import com.sun.beans.editors.ByteEditor;
 import org.junit.Test;
 
 /**
