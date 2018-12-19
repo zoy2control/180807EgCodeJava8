@@ -39,7 +39,17 @@ public class opratorsEg {
     }
 
     @Test
-    public void booleanOpTest() {
+    public void relationalOpTest() {
+        /* == != > < >= <=*/
+    }
+
+    @Test
+    public void logicOpTest() {
+        /* && ||*/
+    }
+
+    @Test
+    public void bitWiseOpTest() {
 
     }
 
