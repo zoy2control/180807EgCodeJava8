@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d43aa43-0862-44e4-9aac-30ae4fe9f5a2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec3_operators/opratorsEg.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/fundamentalStructure/datatype/IntegerTypeEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.class" afterPath="$PROJECT_DIR$/target/test-classes/zoy2control/fundamentalStructure/datatype/FloatPointTypeEg.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" afterPath="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,11 +30,9 @@
       <file leaf-file-name="IntegerTypeEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="594">
               <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,7 +41,7 @@
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Byte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -56,7 +50,7 @@
       <file leaf-file-name="FloatPointTypeEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="1458">
               <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,18 +62,28 @@
       <file leaf-file-name="CharTypeEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            <state relative-caret-position="1296">
+              <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VariableAndConstEg.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VariableAndConstEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="216">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="opratorsEg.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec3_operators/opratorsEg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,8 +92,8 @@
       <file leaf-file-name="BooleanTypeEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="297">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -98,8 +102,8 @@
       <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="104" column="24" lean-forward="true" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+            <state relative-caret-position="1809">
+              <caret line="104" column="24" lean-forward="false" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -171,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java" />
         <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConst.java" />
         <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec3_operators/opratorsEg.java" />
       </list>
     </option>
   </component>
@@ -180,7 +185,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -218,9 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,6 +374,15 @@
             </path>
             <path>
               <item name="180807EgCodeJava8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="180807EgCodeJava8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cp1_fundamentalStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="sec3_operators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="180807EgCodeJava8" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -404,12 +415,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="E:/181203Account" />
+    <property name="last_opened_file_path" value="E:/181213AccountWithLog" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -447,7 +461,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BooleanTypeEg.test">
+  <component name="RunManager" selected="JUnit.opratorsEg.oneOpTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -544,56 +558,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CharTypeEg.charToASCIIEg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="180807EgCodeJava8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
-      <option name="METHOD_NAME" value="charToASCIIEg" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CharTypeEg.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="180807EgCodeJava8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype" />
-      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec1_datatype.CharTypeEg" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -603,6 +567,56 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="opratorsEg.oneOpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec3_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="180807EgCodeJava8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec3_operators" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec3_operators.opratorsEg" />
+      <option name="METHOD_NAME" value="oneOpTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="opratorsEg.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="zoy2control.cp1_fundamentalStructure.sec3_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="180807EgCodeJava8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="zoy2control.cp1_fundamentalStructure.sec3_operators" />
+      <option name="MAIN_CLASS_NAME" value="zoy2control.cp1_fundamentalStructure.sec3_operators.opratorsEg" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -655,19 +669,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CharTypeEg.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CharTypeEg.charToASCIIEg" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.opratorsEg.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.opratorsEg.oneOpTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CharTypeEg.charToASCIIEg" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CharTypeEg.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.opratorsEg.oneOpTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.opratorsEg.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BooleanTypeEg.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CharTypeEg.ascii2Char" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CharTypeEg.char2ASCIIEg" />
       </list>
     </recent_temporary>
   </component>
@@ -708,32 +722,12 @@
       <workItem from="1544598783400" duration="1195000" />
       <workItem from="1544663873321" duration="5844000" />
       <workItem from="1544681542780" duration="5348000" />
-      <workItem from="1545010003257" duration="16290000" />
+      <workItem from="1545010003257" duration="16563000" />
+      <workItem from="1545207383971" duration="4170000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BooleanTypeEg_test - 2018.12.18 at 16h 41m 38s.xml">
-      <configuration name="BooleanTypeEg.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BooleanTypeEg_test - 2018.12.18 at 16h 42m 04s.xml">
-      <configuration name="BooleanTypeEg.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 15h 24m 04s.xml">
-      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 29m 47s.xml">
-      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 29m 54s.xml">
-      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 30m 52s.xml">
-      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 31m 56s.xml">
-      <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CharTypeEg_ascii2Char - 2018.12.18 at 16h 34m 07s.xml">
       <configuration name="CharTypeEg.ascii2Char" configurationId="JUnit" />
     </history-entry>
@@ -743,12 +737,33 @@
     <history-entry file="CharTypeEg_char2ASCIIEg - 2018.12.18 at 16h 29m 18s.xml">
       <configuration name="CharTypeEg.char2ASCIIEg" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="opratorsEg_oneOpTest - 2018.12.19 at 17h 55m 28s.xml">
+      <configuration name="opratorsEg.oneOpTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 41m 56s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 46m 02s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 46m 32s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 46m 43s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 47m 21s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="opratorsEg_test - 2018.12.19 at 16h 47m 33s.xml">
+      <configuration name="opratorsEg.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81470000" />
+    <option name="totallyTimeSpent" value="85913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -765,7 +780,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58766234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23027718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20575693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -820,13 +835,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7101">
-          <caret line="263" column="32" lean-forward="false" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testMain01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -835,13 +843,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testMain01.java">
@@ -934,14 +942,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/rt/java/util/lang/Class/ClassTest.java">
@@ -1044,10 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1053">
           <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
-          <folding>
-            <element signature="e#32532#32533#0" expanded="false" />
-            <element signature="e#32566#32567#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1055,7 +1059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="58" column="68" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,39 +1111,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="68" column="31" lean-forward="false" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/IntegerTypeEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="594">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Byte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="104" column="24" lean-forward="true" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+        <state relative-caret-position="1809">
+          <caret line="104" column="24" lean-forward="false" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/FloatPointTypeEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="1458">
           <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1153,24 +1150,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/BooleanTypeEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="297">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec1_datatype/CharTypeEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="1296">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec2_variables/VariableAndConstEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="216">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zoy2control/cp1_fundamentalStructure/sec3_operators/opratorsEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>

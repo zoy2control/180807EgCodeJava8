@@ -13,7 +13,7 @@ public class VariableAndConstEg {
     @Test
     public void varMustBeInited() {
         int i;
-        System.out.println(i);// ·var未初始化，报错。区别 类的成员变量，有 默认值
+//        System.out.println(i);// ·var未初始化，报错。区别 类的成员变量，有 默认值
     }
 
     /**
@@ -25,6 +25,6 @@ public class VariableAndConstEg {
         final int CONST_VAL = 1;// ·方法内部常量。只初始化一次
         System.out.println(CONST_VAL);
 
-        CONST_VAL = 2;// ·对 常量赋值，会报错
+//        CONST_VAL = 2;// ·对 常量赋值，会报错
     }
 }
