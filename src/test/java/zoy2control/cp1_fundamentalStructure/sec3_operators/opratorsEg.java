@@ -1,6 +1,8 @@
 package zoy2control.cp1_fundamentalStructure.sec3_operators;
 
+
 import org.junit.Test;
+import static java.lang.Math.*;
 
 /**
  * Created by zouzp on 2018/12/18.
@@ -142,12 +144,59 @@ public class opratorsEg {
         int j = 100;
         System.out.println("j >> 3：" + (j >> 3));
 
+        /* ·x >>> bit，无符号填充，即高位用0填充*/
+        int x = -100;
+        System.out.println("x >>> 3：" + (x >>> 3));
+
         /* ·注意，只有 整型数据才可以 移位运算*/
         double d = 100.0;
 //        System.out.println(d >> 3);// ·编译时报错
+
+        /* ·对于左侧int，右侧bit要%32，即 x << 35等效于 x << 3
+        *  ·对于左侧long，右侧bit要%64，即 x << 66 等效于 x << 2*/
     }
 
 
+    /**
+     * ·数学函数
+     */
+    @Test
+    public void mathOpTest() {
+        /* ·三角函数*/
+//        Math.sin();Math.cos();Math.tan();Math.atan();
+
+
+        /* ·幂函数*/
+        int x = 2;
+        int a = 4;
+        Math.pow(x,a);// ·x的 a次幂。x^a
+
+        /* ·反函数*/
+//        Math.log();
+        double v = Math.log10(100);
+
+        /* ·平方根*/
+        double sqrtResult = Math.sqrt(4);
+
+        /* ·常亮π和 e*/
+        double pi = Math.PI;
+        double e = Math.E;
+
+        /**
+         * ·静态导入：不必总用 Math.xxx，只要在 源文件顶部定义 import static java.lang.Math.*;就可以直接用函数
+         */
+        double sqrt = sqrt(9);
+
+
+        /**
+         * ·完全可预测的结果（任何平台相同结果） > 运行速度，那么用 StrictMath类。
+         * ·StrictMath类使用“自由发布的Math库”fdlibm实现算法。源码参考：www.netlib.org/fdlibm
+         *
+         * ·因为在 Math类中，为了达到最快性能，所有方法都使用 计算机浮点单元中的例程
+         */
+        StrictMath.sqrt(4);
+
+    }
 
 
 
