@@ -7,7 +7,7 @@ import static java.lang.Math.*;
 /**
  * Created by zouzp on 2018/12/18.
  */
-public class opratorsEg {
+public class OpratorsEg {
 
     @Test
     public void integerOpTest() {
