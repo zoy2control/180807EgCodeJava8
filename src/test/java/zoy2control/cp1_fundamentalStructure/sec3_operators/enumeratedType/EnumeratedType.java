@@ -31,4 +31,15 @@ public class EnumeratedType {
     }
 
 
+    /* ·psvm可以执行，而 @Test不行。？？？原因：*/
+    @Test
+    public void enumWithMethod() {
+//        EnumWithMethod enumWithMethod = new EnumWithMethod("RED",1);
+    }
+
+    public static void main(String[] args) {
+        EnumWithMethod red = EnumWithMethod.RED;
+        System.out.println(red.toString());
+    }
+
 }
